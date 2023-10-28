@@ -362,5 +362,6 @@ body {
 @media (max-width:450px) {
     .page-1 {
         background-position: center;
+        background-size: cover;
     }
 }
